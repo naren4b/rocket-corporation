@@ -1,4 +1,4 @@
-FROM naren-bank:latest as build
+FROM team-a-builder:latest as build
 
 
 FROM openjdk:11.0.7-jre-slim
